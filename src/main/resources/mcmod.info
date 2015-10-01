@@ -1,0 +1,17 @@
+[
+{
+  "modid" : "Unthaumic",
+  "name" : "Thaumcraft Minus Thaumcraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url" : "http://www.minecraftforum.net/topic/2305054-/",
+  "credits" : "BluSunrize",
+  "authorList": [ "SpitefulFox" ],
+  "description": "Thaumcraft Minus Thaumcraft is an add-on to take all the Thaumcraft out of Thaumcraft.",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]
